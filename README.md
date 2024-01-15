@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Jawad Ahmad
-- 👀 I’m  Frontend-Developer
-- 📫 How to reach me?
+- 👋 Hi, I’m Jawad Ahmad ❤️
+  👀 I’m  Frontend-Developer !
+- How to reach me?
   Twitter: https://twitter.com/Jawadd_07
 - To see my progress:
   Linkedin: www.linkedin.com/in/jawad-ahmad-abb85a246
